@@ -1,7 +1,11 @@
-# PIAIC Assignment 1. 
-## Class details:
-Venue: Air University, Islamabad
-Time/Date: 2:00 - 6:00 PM, 11th Feb, 2023 
-This Repo contains 45 Questions, which are mentioned belo & their solutions. The solution of each question is in seperate functions like:
-questionnumber1(), questionnumber2(), ............, questionnumber45() 
-The code is in typescript and it's Javascript file is also made. 
+# PIAIC Assignment 1
+
+## Class Details:
+Location: Air University, Islamabad   
+Time/Date: 2:00 PM - 6:00 PM, 11th Feb 2023   
+
+## Project Details:  
+This repository contains 45 questions along with their solutions. The solutions are written in separate functions such as:   
+questionnumber1(), questionnumber2(), ............, questionnumber45()  
+  
+The code is written in TypeScript and the corresponding JavaScript file is also included.  
